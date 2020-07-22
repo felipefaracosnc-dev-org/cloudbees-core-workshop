@@ -1,4 +1,4 @@
-# CloudBees Core Pipeline Workshop4
+# CloudBees Core Pipeline Workshop5
 This workshop will provide a basic understanding of how to create and manage Jenkins CI/CD Declarative Pipelines leveraging developer focused features of CloudBees Core.
 
 This repository contains instructions and learning materials for the workshop that is designed to teach the following key concepts:
